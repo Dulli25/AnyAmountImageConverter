@@ -9,3 +9,5 @@ How to use:
 3) move all contents from In2Darknez/AnyAmountImageConverter to your created directory
 4) run the main.py
 5) follow the instructions in the console
+
+And after that you will have a directory called "new" which contains all the converted files and a directory "old" which contains all the old files.
