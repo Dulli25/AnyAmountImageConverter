@@ -1,6 +1,8 @@
 # AnyAmountImageConverter
 # made by github.com/In2Darknez
 
+only working on windows rightnow
+
 a short python script to convert image files from one to another format.
 
 How to use:
